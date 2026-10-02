@@ -124,9 +124,7 @@ The measured isolation between the E-arm and H-arm is approximately **49.5 dB**.
 
 ---
 
-## Conclusion
 
-The characteristics of the magic tee were studied experimentally. The isolation between the E-arm and H-arm was measured and found to be approximately **49.5 dB** for the sample readings. The results demonstrate that the E-arm and H-arm of the magic tee are effectively isolated from each other while providing the required power division and combining characteristics.
 
 
 ## Precautions
